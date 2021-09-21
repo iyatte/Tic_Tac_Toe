@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-This is a easy game, let's play~
+This is an easy game, let's play~
